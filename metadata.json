@@ -1,0 +1,8 @@
+{
+  "name": "Edvance",
+  "description": "An AI-powered personalized learning platform that creates custom roadmaps, provides adaptive tutoring, and gamifies the learning experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
